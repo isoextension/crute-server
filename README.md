@@ -1,2 +1,2 @@
 # crute-server
-Website for my friend's Minecraft server, Crute server.
+Website for the Minecraft server, Crute server.
